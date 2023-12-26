@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  local:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-12-26T17:56:49.226668506Z"
+    description: A Helm chart for Kubernetes
+    digest: e7b8aecf4cd3ad9d322bd8650e3ffa6464ae1c6bc859477364433abb092d573a
+    name: local
+    type: application
+    urls:
+    - https://github.com/Balajiv028/balaji-delicious-app/local-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-12-26T17:56:49.225932576Z"
